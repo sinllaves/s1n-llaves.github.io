@@ -7,13 +7,15 @@ title: "About"
 Where does it go? 
 Doors, cars, hearts, journals and treasure boxes." -S1n-Llaves
 
-My cyber-security interest in 2017 after watching Mr. Robot. A friend said not to do any of that or I'll get caught and go to jail. He pointed me to some resources and an obsession started. After that summer I landed a internship, got hired, and trained in Teir 3/4 network access control and poly-vendor integration solutions crafted to harden and monitor systems and assets. 
+My hacking interest started in 2017 after watching Mr. Robot. A friend told me to learn about cyber-security instead of what we call black hat hacking. I was pointed to some resources and an obsession started. After that summer I landed a internship, got hired, and trained and worked in Teir 3/4 network access control and poly-vendor integration solutions crafted to harden and monitor systems and assets. 
 
-After that super difficult architect tooling and writing actionable policy sets, I got a chance to get back to my initial desire. Mixed with my 9 years of psychology and the power of a keyboard I am becoming a defender of theft, abuse, and fraud.
+After that super difficult architect tooling and writing actionable policy sets, I got a chance to get back to my initial desire. Mixed with my 9 years of psychology and the power of a keyboard I am becoming a better defender of theft, abuse, and fraud.
 
 This blog will detail many of my learnings and crafts.
 
 I intend to use the power of Adversial / Offensive Security Engineering and Hacker Ingenuity for good. I hope you do too. Stay secure ;)
+
+
 
 
 In the world of cyber security, the last thing you want is to have a target painted on you -Tim Cook
