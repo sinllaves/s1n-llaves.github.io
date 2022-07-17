@@ -3,6 +3,8 @@ permalink: /about/
 title: "About"
 ---
 
-Tempor velit sint sunt ipsum tempor enim ad qui ullamco. Est dolore anim ad velit duis dolore minim sunt aliquip amet commodo labore. Ut eu pariatur aute ea aute excepteur laborum. Esse ea esse excepteur minim mollit qui cillum excepteur ex dolore magna. Labore deserunt fugiat incididunt incididunt sint ea. Consequat dolore aute laboris quis proident quis non et est consectetur ex eiusmod sit culpa.
+I began my cyber-security interest in 2017 after watching Mr. Robot. A friend said not to do any of that or I'll get caught and go to jail. He pointed me to some resources and an obsession started. After that summer I landed a internship, trained in T3/4 network access control and poly-vendor integration solutions crafted to harden and monitor systems and assets. After that super difficult architect tooling and writing actionable policy sets, I got a chance to get back to my initial desire. Mixed with my 9 years of psychology and the power of a keyboard I am becoming a defender of theft, abuse, and fraud. Your better off hiring people like me to save your assets before someone takes them. 
 
-Cupidatat ea do et in excepteur in. Ad nostrud ut est esse eu duis ea sunt eiusmod. Aliquip tempor veniam sint elit fugiat. Velit incididunt laboris amet incididunt labore dolore irure velit excepteur commodo deserunt laborum. Consectetur eu fugiat veniam veniam Lorem labore magna eiusmod. Ea occaecat reprehenderit pariatur consectetur minim labore ut aliquip.
+This blog will detail many of my learnings and crafts.
+
+I intend to use the power of Adversial / Offensive Security Engineering and Hacker Ingenuity for good.  
