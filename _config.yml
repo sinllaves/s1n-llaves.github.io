@@ -60,7 +60,7 @@ plugins:
 author:
   name   : "Brian Houston"
   avatar : "https://github.com/s1n-llaves.png"
-  bio    : "I am keyless, even though I have a key in my pocket. I just found it.""This key must be for an adventure, where does it go? Doors, journals and treasure boxes."
+  bio    : "I am keyless, even though I have a key in my pocket."
   
 links:
     - label: "Website"
